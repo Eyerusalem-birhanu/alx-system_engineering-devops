@@ -1,0 +1,4 @@
+#!/bin/bash
+touch hello olleh
+chmod 664 hello 
+chmod 664 olleh
